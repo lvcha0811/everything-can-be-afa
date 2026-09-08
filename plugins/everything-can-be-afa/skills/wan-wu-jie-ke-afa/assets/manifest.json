@@ -1,0 +1,15 @@
+{
+  "character": "阿发",
+  "skill": "万物皆可阿发",
+  "version": 2,
+  "license_note": "User-authorized for redistribution with the public GitHub skill package.",
+  "assets": [
+    {"slot": "hero_identity_mint", "path": "references/afa-front-mint-harness-yellow-tag.png", "required": true, "visibility": "public", "harness": "mint", "min_long_edge": 1600},
+    {"slot": "face_identity_cutout", "path": "references/afa-face-cutout.png", "required": true, "visibility": "public", "harness": "none-visible", "min_long_edge": 1600},
+    {"slot": "side_body_mint", "path": "references/afa-side-mint-harness-yellow-tag.png", "required": true, "visibility": "public", "harness": "mint", "min_long_edge": 1200},
+    {"slot": "three_quarter_neon_yellow", "path": "references/afa-three-quarter-neon-yellow-harness-tag.png", "required": true, "visibility": "public", "harness": "neon-yellow", "min_long_edge": 1600},
+    {"slot": "front_neon_yellow", "path": "references/afa-front-neon-yellow-harness.jpg", "required": true, "visibility": "public", "harness": "neon-yellow", "min_long_edge": 1200},
+    {"slot": "front_face_natural", "path": "references/afa-front-face-natural.jpg", "required": false, "visibility": "public", "harness": "partly-obscured", "min_long_edge": 1600},
+    {"slot": "sleeping_light_blue", "path": "references/afa-sleeping-light-blue-harness.jpg", "required": true, "visibility": "public", "harness": "light-blue", "min_long_edge": 1600}
+  ]
+}

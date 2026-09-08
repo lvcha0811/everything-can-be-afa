@@ -1,0 +1,20 @@
+{
+  "name": "afa-personal-plugins",
+  "interface": {
+    "displayName": "Afa Personal Plugins"
+  },
+  "plugins": [
+    {
+      "name": "everything-can-be-afa",
+      "source": {
+        "source": "local",
+        "path": "./plugins/everything-can-be-afa"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

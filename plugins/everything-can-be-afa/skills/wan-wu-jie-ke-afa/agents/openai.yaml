@@ -1,0 +1,9 @@
+interface:
+  display_name: 万物皆可阿发
+  short_description: 把任何主角稳定换成阿发，并准确选择胸背颜色与名牌
+  default_prompt: Use $wan-wu-jie-ke-afa to replace the main subject with 阿发 while
+    preserving the original scene.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
