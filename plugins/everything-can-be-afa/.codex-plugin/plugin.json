@@ -1,6 +1,6 @@
 {
   "name": "everything-can-be-afa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "把任何图片中的主角稳定替换成固定柴犬角色“阿发”，保留阿发的脸、标准身材、年龄、胸背与黄色“阿发”名牌。",
   "author": {
     "name": "lvcha0811",
@@ -9,12 +9,12 @@
   "repository": "https://github.com/lvcha0811/everything-can-be-afa",
   "skills": "./skills/",
   "interface": {
-    "displayName": "Everything can be Afa",
-    "shortDescription": "Replace any image's main subject with the fixed Shiba Inu character Afa.",
-    "longDescription": "Stably replace an image's main subject with Afa while preserving Afa's face, standard body, age, harness, and yellow 阿发 name tag.",
+    "displayName": "万物皆可阿发",
+    "shortDescription": "阿发柴犬角色替换：保留长相、体型、胸背和黄色名牌。Everything can be Afa",
+    "longDescription": "万物皆可阿发（Everything can be Afa）：将图片主角替换为柴犬阿发，保持场景与动作，保留阿发的脸、标准体型、年龄、胸背和黄色简体“阿发”名牌。",
     "developerName": "lvcha0811",
     "category": "Productivity",
     "capabilities": [],
-    "defaultPrompt": "Use 万物皆可阿发 to replace the main subject with 阿发 while preserving the original scene."
+    "defaultPrompt": "使用万物皆可阿发，将图片里的主角替换成阿发，保持原场景与动作，保留阿发的长相、标准体型和黄色简体名牌。"
   }
 }
